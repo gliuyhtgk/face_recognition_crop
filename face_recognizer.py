@@ -1,8 +1,3 @@
-#----------------------------------------------
-#--- Author         : Ahmet Ozlu
-#--- Mail           : ahmetozlu93@gmail.com
-#--- Date           : 21st September 2017
-#----------------------------------------------
 
 import face_recognition
 import cv2
