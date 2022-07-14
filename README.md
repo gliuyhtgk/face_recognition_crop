@@ -85,32 +85,5 @@ Years ago, we had to compile dlib manually from source (similar to how we instal
 
     $ pip install dlib
     
-**3.) face_recognition 1.2.1**
 
-In this project, [Adam Geitgey](https://github.com/ageitgey/face_recognition)'s face recognition system (*thanks a lot to Adam*) was used for face recognition and it can be installed by pypi using pip3 (or pip2 for Python 2):
-    
-    pip3 install face_recognition
 
-## USAGE
-
-Just run *face_recognizer.py*
-
-The default file paths are specified already, change them with yours. (edit the line 17, line 20, line 80, line 89 in [face_recognizer.py](https://github.com/ahmetozlu/face_database_creator/blob/master/face_recognizer.py))
-
-- The sample database and dataset can be found at [here](https://github.com/ahmetozlu/face_database_creator/tree/master/sample)
-
-## CITATION
-If you use this code for your publications, please cite it as:
-
-    @ONLINE{frc,
-        author = "Ahmet Özlü",
-        title  = "Face Database Creator",
-        year   = "2017",
-        url    = "https://github.com/ahmetozlu/face_recognition_crop"
-    }
-
-## AUTHOR
-Ahmet Özlü
-
-## LICENSE
-This system is available under the MIT license. See the LICENSE file for more info.
